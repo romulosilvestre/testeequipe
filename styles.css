@@ -1,0 +1,50 @@
+/* Resetar as margens e preenchimentos do body */
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Definir um tamanho de tela mínimo */
+  html, body {
+    height: 100%;
+    min-height: 100vh;
+  }
+  
+  /* Criar uma div para centralizar o conteúdo */
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  /* Estilizar a tela central */
+  .screen {
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilizar as cores */
+  h1 {
+    color: navy;
+  }
+  
+  p {
+    color: #333;
+  }
+  
+  button {
+    background-color: #ff6699;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ff3366;
+  }
+  
