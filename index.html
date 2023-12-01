@@ -79,18 +79,16 @@
         });
     </script>
 
-    <script>
-      document
-        .querySelector("form")
-        .addEventListener("submit", function (event) {
-          event.preventDefault();
-
-          var nomeCategoria = document.getElementById("nome").value;
-
-          alert("Categoria excluída: " + nomeCategoria);
-
-          document.getElementById("nome").value = "";
-        });
-    </script>
+<script>
+     document.querySelector("#excluir").addEventListener("click", function(event) {
+       var nomeCategoria = document.getElementById("nome").value;
+   
+       if (confirm("Tem certeza que deseja excluir a categoria: " + nomeCategoria + "?")) {
+         
+         document.getElementById("nome").value = "";
+       }
+     });
+   </script>
+   
   </body>
 </html>
