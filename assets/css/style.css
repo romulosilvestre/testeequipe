@@ -19,7 +19,7 @@ form {
     flex-direction: column;
     align-items: center;
     margin: auto;
-    background-color: #FBCDB9;
+    
   }
 
   div {
@@ -28,13 +28,27 @@ form {
 
   label {
     font-weight: bold;
+    
   }
 
   input {
-    width: 12.5rem;
+    width: 400px;
+    height: 30px;
     padding: .3125rem;
-    border: .0625rem solid black;
+    border: none;
+    margin-right: 100px;
+    border-radius: 10px;
+   background-color: #FBCDB9;
+   font-style: bold;
+    font-size:15px;
+   
     
+    
+  }
+
+  ::placeholder
+  {
+    color: black;
   }
 
   button {
@@ -44,4 +58,13 @@ form {
     color: white;
     border: none;
     cursor: pointer;
+    border-radius: 20px;
   }
+
+  #nome::-webkit-input-placeholder{
+    color:#1C1C1C;
+    background-color: #4682B4;
+    text-transform: uppercase;
+    font-style: bold;
+    font-size:15px;
+}
