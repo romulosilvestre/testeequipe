@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica;
+    margin-top: 300px;
+    color: #FC8A58;
+}
+main{
+    background-color: #FFF0EA;
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+div{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+input{
+    font-size: 18px;
+    color: black;
+    
+}
+    
+::placeholder{
+    color: black;
+}
+
+button{
+    font-size: 15px;
+    
+}
