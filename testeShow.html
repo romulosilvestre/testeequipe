@@ -1,11 +1,59 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <link rel="stylesheet" href="assets/css/card.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <H1>Muito show!</H1>
+    <header>
+
+    </header>
+
+    <div class="text">
+        <h1>Escolha o tipo de conta</h1>
+    </div>
+
+    <div class="container">
+        <a href="#">
+            <div class="card">
+                <img src="assets/img/perfil.PNG" alt="Professor">
+                <h1>Professor</h1>
+            </div>
+        </a>
+    
+        <a href="#">
+            <div class="card">
+                <img src="assets/img/perfil.PNG" alt="Externo">
+                <h1>Externo</h1>
+            </div>
+        </a>
+    </div>
+
+    <div class="text">
+        <h2>Por favor, preencha o formulário abaixo para começar</h2>
+    </div>
+
+    <form>
+        <div>
+          <label for="email">Email/matricula:</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+        <div>
+          <label for="password">Senha:</label>
+          <input type="password" id="password" name="password" required>
+        </div>
+        <div>
+          <label for="confirm">Confirmar senha:</label>
+          <input type="password" id="confirm" name="confirm" required>
+        </div>
+        <div>
+          <a href="#"><button type="submit">Criar conta</button></a>
+        </div>
+      </form>
+
 </body>
 </html>

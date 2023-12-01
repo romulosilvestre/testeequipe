@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card {
+    text-align: center;
+    width: 21.875rem;
+    height: 21.875rem;
+    padding: 1.25rem;
+    display: inline-block;
+    background-color: #F5CAB8;
+    color: black;
+    border-radius: .3125rem;
+  }
+
+.card img {
+    width: 13.125rem;
+    max-width: 100vw;
+    border-radius: 50%;
+}
+
+.card h1{
+    text-align: center;
+    background-color: white;
+    border-radius: .3125rem;
+}
