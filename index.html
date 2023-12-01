@@ -1,14 +1,86 @@
 <!DOCTYPE html>
-
-<html lang="pt-br">
-
+<html>
 <head>
-
-
+    <title>Cadastro de Categoria de Utensílios</title>
 </head>
-
 <body>
-     Insira aqui o alo mundo
+  <div class="container">
+<form>
+    <label for="nome">Nome da Categoria:</label>
+    <input type="text" id="nome" name="nome" required>
+    <br>
+    
+
+    <div>
+     <button id="cadastrar">Cadastrar</button>
+     <button id="excluir" >Excluir</button>
+   </div>
+   
+</form>
+</div>  
+<style>
+     body {
+       padding: 20px; 
+     }
+     
+     .container {
+       border: 3px solid #ccc; 
+       padding: 30px;
+       margin-top: 100px; 
+       margin-left: 800px;
+       margin-right: 800px;
+     }
+     
+    form {
+        max-width: 300px;
+        padding: 10px;
+        margin: 0 auto;
+    }
+    label, input {
+        display: block;
+        margin-bottom: 10px;
+    }
+  
+    button {
+  margin: 5px;
+  padding: 5px;
+  
+}
+
+#cadastrar {
+  float: left;
+  background-color: #45a049;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+
+}
+
+#excluir {
+  float: left;
+  background-color: #a05345;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  
+}
+
+ 
+    input[type="submit"]:hover {
+        background-color: #45a049;
+    }
+</style>
+<script>
+    document.querySelector('form').addEventListener('submit', function(event) {
+        event.preventDefault(); 
+
+        var nomeCategoria = document.getElementById('nome').value;
+
+        alert("Categoria cadastrada: " + nomeCategoria);
+
+        document.getElementById('nome').value = '';
+    });
+</script>
 
 </body>
 
