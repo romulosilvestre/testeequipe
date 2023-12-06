@@ -58,3 +58,20 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por 16 memb
 9. Raphael
 10. Ricardo
 11. Victor
+
+## Pesquisa
+
+## Estudo da camada MODEL do MVC
+
+O QUE É?
+
+O Model é a definição do domínio de dados com o qual sua aplicação trabalha. Se sua aplicação for um sistema bancário o modelo poderia representar tudo em um banco com o qual sua aplicação precisa lidar como contas, limites de crédito, operações financeiras.
+
+O Model também é responsável por preservar o estado e a consistência dos dados; no exemplo da aplicação bancária,controlando a movimentação bancária de um cliente.
+
+
+PARA QUE SERVE?
+
+Models (Modelos) são as classes que servem como camada de negócio na sua aplicação. Isso significa que eles devem ser responsáveis pela gestão de quase tudo o que acontece em relação a seus dados, sua validade, interações e evolução do fluxo de trabalho de informação no domínio do trabalho.
+
+O Model contém as classes e os arquivos relacionados com a camada de dados da aplicação. É no model que implementamos a lógica de acesso aos dados de nossa aplicação MVC. É também no Model que definimos as regras de negócios da aplicação.
