@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PROFESSOR\\desktop\\teste\\sispanificacao\\sispanificacao.csproj": {}
+    "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\sispanificacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PROFESSOR\\desktop\\teste\\sispanificacao\\sispanificacao.csproj": {
+    "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\sispanificacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PROFESSOR\\desktop\\teste\\sispanificacao\\sispanificacao.csproj",
+        "projectUniqueName": "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\sispanificacao.csproj",
         "projectName": "sispanificacao",
-        "projectPath": "C:\\Users\\PROFESSOR\\desktop\\teste\\sispanificacao\\sispanificacao.csproj",
+        "projectPath": "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\sispanificacao.csproj",
         "packagesPath": "C:\\Users\\PROFESSOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PROFESSOR\\desktop\\teste\\sispanificacao\\obj\\",
+        "outputPath": "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
