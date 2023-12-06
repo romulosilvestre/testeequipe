@@ -46,3 +46,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por:
 14.
 15.
 16.
+
+## Estudo da Camada Model
+
+Dentro da arquitetura de software Modelo-Visão-Controlador (MVC), a camada "Model" representa a parte do sistema responsável por gerenciar os dados e a lógica de negócios da aplicação. O objetivo principal da camada Model é manipular os dados e fornecer as funcionalidades necessárias para a aplicação.
