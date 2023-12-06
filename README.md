@@ -9,6 +9,15 @@ O projeto Senai Alimentos tem como objetivo gerenciar a cozinha, controlando a q
 - Gerenciamento de pratos
 - Gerenciamento de retirada e entrada de itens
 
+## Model (Minha parte no projeto)
+O Model é uma parte importante do projeto, pois é responsável por gerenciar os dados do sistema. Algumas tarefas que você pode realizar como parte do Model incluem:
+
++ Criar e gerenciar bancos de dados.
+- Definir as regras de negócios do sistema.
+- Gerenciar a lógica de negócios do sistema.
+
+Em resumo, o Model é a camada do sistema que gerencia os dados e a lógica de negócios.
+
 ## Tecnologias utilizadas
 - HTMl/CSS
 - C#
