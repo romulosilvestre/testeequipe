@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Senai Alimentos
 
 ## Descrição do projeto
