@@ -41,3 +41,4 @@ A equipe responsavel pelo desenvolvimento deste projeto é comosto por 16 membro
 9. Raphael
 10. Ricardo
 11. Vitor
+12. Romulo
