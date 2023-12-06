@@ -11,23 +11,17 @@ A perda constante de utensílios, como facas, panelas e outros equipamentos, é 
 
 ## Objetivos do Projeto:
 
-1.Desenvolver um site intuitivo e acessível para facilitar o cadastro e a identificação de utensílios
-
-2.Implementar um sistema de código QRcode para rastreamento preciso de cada utensílio
-
-3.Criar perfis de acesso para diferentes usuários, permitindo a gestão por setores ou departamentos
-
-4.Integrar alertas automáticos para notificar quando utensílios estão prestes a vencer sua vida útil ou precisam de manutenção
+1. Desenvolver um site intuitivo e acessível para facilitar o cadastro e a identificação de utensílios
+2. Implementar um sistema de código QRcode para rastreamento preciso de cada utensílio
+3. Criar perfis de acesso para diferentes usuários, permitindo a gestão por setores ou departamentos
+4. Integrar alertas automáticos para notificar quando utensílios estão prestes a vencer sua vida útil ou precisam de manutenção
 
 ## Benefícios Esperados:
 
-1.Redução de custos operacionais de reposição de utensílios perdidos
-
-2.Otimização do tempo gasto na busca de utensílios, aumentando a eficiência operacional
-
-3.Melhoria na qualidade dos serviços prestados, evitando a utilização de utensílios desgastados
-
-4.Maior controle sobre o ciclo de vida dos utensílios, evitando perdas desnecessárias
+1. Redução de custos operacionais de reposição de utensílios perdidos
+2. Otimização do tempo gasto na busca de utensílios, aumentando a eficiência operacional
+3. Melhoria na qualidade dos serviços prestados, evitando a utilização de utensílios desgastados
+4. Maior controle sobre o ciclo de vida dos utensílios, evitando perdas desnecessárias
 
 ## Equipe
 
