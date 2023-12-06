@@ -42,3 +42,23 @@ A equipe responsavel pelo desenvolvimento deste projeto é comosto por 16 membro
 10. Ricardo
 11. Vitor
 12. Romulo
+
+
+
+# Estudo Model
+
+## Pesquisa sobre a Camada Modelgit
+
+Na arquitetura de software, o padrão de arquitetura Model-View-Controller (MVC) divide a aplicação em três componentes principais: Model (Modelo), View (Visão) e Controller (Controlador). Se você está na camada "Model", você está lidando com a parte do sistema que é responsável pela representação dos dados e lógica de negócios.
+
+## Aqui estão algumas informações sobre a camada "Model":
+
+Representação dos Dados: A camada Model é responsável por representar os dados da aplicação. Isso pode incluir estruturas de dados, classes, métodos e lógica que manipula esses dados.
+
+Lógica de Negócios: Aqui é onde a lógica de negócios da aplicação reside. Se houver regras específicas que determinam como os dados devem ser processados, validados ou modificados, essas regras estarão na camada Model.
+
+Interagindo com o Banco de Dados: Se a aplicação estiver conectada a um banco de dados, a camada Model é responsável por interagir com o banco de dados. Isso inclui a recuperação, atualização e manipulação dos dados armazenados.
+
+Comunicação com o Controlador e a Visão: Embora a camada Model seja independente do Controlador e da Visão, ela pode precisar notificar essas camadas sobre mudanças nos dados. Isso geralmente é feito por meio de observadores ou eventos.
+
+Se você está na camada Model, seu trabalho pode envolver o design e implementação de classes, métodos e lógica de negócios que garantem o bom funcionamento e a manipulação adequada dos dados da aplicação. Essa separação de responsabilidades ajuda a criar aplicações mais modularizadas e de fácil manutenção.
