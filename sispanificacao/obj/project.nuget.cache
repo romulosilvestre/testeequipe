@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "9lCWgPNFaIjgRegqXvLevU/OJJ9CLCq0U2EtWNgP5P2005hvmPFsw2MEoOQl7U0s3ciBAiwkyImLhciASjRjKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ALUNO\\Documents\\Gabriel\\GabrielR\\sispanificacao\\sispanificacao.csproj",
+=======
+  "dgSpecHash": "aV2bwmqWjMg/DMi7YiUb9w86ta32sbmV/+k0qHzujSeba675L76aH+f14NiXAqeiN4tRgFvJZ6PvKm6iUwmSYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\sispanificacao.csproj",
+>>>>>>> da9d15b1c48e93017f52cfdd27489999c30aa868
   "expectedPackageFiles": [],
   "logs": []
 }

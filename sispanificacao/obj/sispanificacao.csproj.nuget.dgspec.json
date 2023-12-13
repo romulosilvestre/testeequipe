@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\ALUNO\\Documents\\Gabriel\\GabrielR\\sispanificacao\\sispanificacao.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\ALUNO\\Documents\\Gabriel\\GabrielR\\sispanificacao\\sispanificacao.csproj",
         "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ALUNO\\Documents\\Gabriel\\GabrielR\\sispanificacao\\obj\\",
+=======
+    "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\sispanificacao.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\sispanificacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\sispanificacao.csproj",
+        "projectName": "sispanificacao",
+        "projectPath": "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\sispanificacao.csproj",
+        "packagesPath": "C:\\Users\\PROFESSOR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PROFESSOR\\Desktop\\teste\\sispanificacao\\obj\\",
+>>>>>>> da9d15b1c48e93017f52cfdd27489999c30aa868
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
